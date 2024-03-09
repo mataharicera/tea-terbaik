@@ -1,0 +1,23 @@
+{
+  "name": "tea-terbaik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mataharicera/tea-terbaik.git"
+  },
+  "author": "mataharicera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mataharicera/tea-terbaik/issues"
+  },
+  "homepage": "https://github.com/mataharicera/tea-terbaik#readme",
+  "dependencies": {
+    "tea-decanto": "^1.0.0",
+    "tea-rug": "^1.0.0"
+  }
+}
